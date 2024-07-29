@@ -67,7 +67,7 @@ else
     echo -e "${OK} IP Address ( ${green}$IP${NC} )"
 fi
 
-# // Validate Successfull
+# // Validate Successfullli
 echo ""
 read -p "$( echo -e "Press ${GRAY}[ ${NC}${green}Enter${NC} ${GRAY}]${NC} For Starting Installation") "
 echo ""
