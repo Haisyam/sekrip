@@ -1,43 +1,39 @@
-<p style="text-align:center">
-<font color='blue'>┏━━━━━━━━━━━━━━━━━━━┓</b> </font><br>
-<font color="#ffff00"><b>⪼⪼۞ JurigStore  ۞⪻⪻</b></font><br>
-<font color="#0a00ff"> ┗━━━━━━━━━━━━━━━━━━━┛</b></font><br>
-<font color="#6495ED"><b>⪼⪼  SERVER PREMIUM ⪻⪻</b></font> <br>
-<font color="#00ffff"><b>THANK YOU FOR USING SERVICE</b></font><br>
-<font color="#ff0000"><b>  !!! TOLONG IKUTI RULES SERVER  !!!  </b></font><br>
-<font color="#6495ED"><b> ⪼⪼  NO DDOS ⪻⪻  </b></font><br>
-<font color="#00ffff"><b> ⪼⪼  NO TORENT ⪻⪻  </b></font><br>
-<font color="#BC8F8F"><b>  ⪼⪼NO HACKING AND CARDING⪻⪻ </b></font><br>
-<font color="#ffff00"><b> ⪼⪼  MAX LOGIN  2 DEVICE ⪻⪻ </b> </font><br>
-<font color='red'><b> ⪼⪼ MELANGGAR = BANNED! ⪻⪻ </b></font><br>
-<font color="#0a00ff">┏━━━━━━━━━━━━━━━━━━━━━┓</b></font><br><font color="#ffff00"><b> Admin : https://wa.link/p1t6ke</b></font><br><font color="#ffff00"><b> Admin : https://wa.link/hdi8gk</b></font><br> <font color="#0a00ff">┗━━━━━━━━━━━━━━━━━━━━━┛</br></font>
-
-
 ## UPGRADE FOR DEBIAN
+
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
+
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 ```
 
-##  UPGRADE FOR UBUNTU
+## UPGRADE FOR UBUNTU
+
 Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
+
 ```
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
-## INSTALL SCRIPT 
+## INSTALL SCRIPT
+
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
+
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Haisyam/sekrip/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ## UPDATE SCRIPT
+
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
+
 ```
 wget -q https://raw.githubusercontent.com/Haisyam/sekrip/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-## sewa autoscript bisa ke wa.me/6282116211399 cuman 10k 2bulan 1ip vps
+
+## sewa autoscript bisa ke wa.me/6283850135751 atau t.me/JurigVPN cuman 10k 1bulan 1ip vps
+
 JurigStore
+
 ```
 anjay
 ```
@@ -53,18 +49,13 @@ Auto Script Install All VPN Service JurigStore
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Over_DNS-success.svg">  <img src="https://img.shields.io/badge/Service-SSLH-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel5-success.svg">  <img src= "https://img.shields.io/badge/Service-OHP_Open_Http_Puncher-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
-<p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
-
-
+<p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">
 
 # Khusus Untuk OS
-* • Debian 10 & 9
-* • Ubuntu 18.04 & 20.04
-* Working For VPS AWS,AZURE,DO,LINODE
 
-
-
-
+- • Debian 10 & 9
+- • Ubuntu 18.04 & 20.04
+- Working For VPS AWS,AZURE,DO,LINODE
 
 ### Fitur Script
 
@@ -84,7 +75,7 @@ Auto Script Install All VPN Service JurigStore
 
 • OHP SSH & OHP Dropbear & OHP OpenVPN (OPEN HTTP PUNCHER)
 
-• XRAY VMESS 
+• XRAY VMESS
 
 • XRAY VLESS
 
@@ -94,7 +85,7 @@ Auto Script Install All VPN Service JurigStore
 
 • XRAY VLESS GRPC
 
-• SHADOWSOCKS 
+• SHADOWSOCKS
 
 • SHADOWSOCKS OBFS
 
@@ -132,80 +123,79 @@ Auto Script Install All VPN Service JurigStore
 
 # Service & Port
 
-• SlowDNS                   : All Port SSH
+• SlowDNS : All Port SSH
 
-• OpenSSH                   : 22, 2253
+• OpenSSH : 22, 2253
 
-• Dropbear                  : 443, 109, 143, 1153
+• Dropbear : 443, 109, 143, 1153
 
-• Stunnel5                  : 443, 445, 777
+• Stunnel5 : 443, 445, 777
 
-• OpenVPN                   : TCP 1194, UDP 2200, SSL 990
+• OpenVPN : TCP 1194, UDP 2200, SSL 990
 
-• Websocket SSH TLS         : 443
+• Websocket SSH TLS : 443
 
-• Websocket SSH HTTP        : 8880
+• Websocket SSH HTTP : 8880
 
-• Websocket OpenVPN         : 2086
+• Websocket OpenVPN : 2086
 
-• Squid Proxy               : 3128, 8080 [OFF]
+• Squid Proxy : 3128, 8080 [OFF]
 
-• Badvpn                    : 7100, 7200, 7300
+• Badvpn : 7100, 7200, 7300
 
-• Nginx                     : 89
+• Nginx : 89
 
-• Wireguard                 : 7070
+• Wireguard : 7070
 
-• L2TP/IPSEC VPN            : 1701
+• L2TP/IPSEC VPN : 1701
 
-• PPTP VPN                  : 1732
+• PPTP VPN : 1732
 
-• SSTP VPN                  : 444
+• SSTP VPN : 444
 
-• Shadowsocks-R             : 1443-1543
+• Shadowsocks-R : 1443-1543
 
-• SS-OBFS TLS               : 2443-2543
+• SS-OBFS TLS : 2443-2543
 
-• SS-OBFS HTTP              : 3443-3543
+• SS-OBFS HTTP : 3443-3543
 
-• XRAYS Vmess TLS           : 8443
+• XRAYS Vmess TLS : 8443
 
-• XRAYS Vmess None TLS      : 80
+• XRAYS Vmess None TLS : 80
 
-• XRAYS Vless TLS           : 8443
+• XRAYS Vless TLS : 8443
 
-• XRAYS Vless None TLS      : 80
+• XRAYS Vless None TLS : 80
 
-• XRAYS Trojan              : 2083
+• XRAYS Trojan : 2083
 
-• XRAYS Vmess GRPC TLS      : 1180,3380
+• XRAYS Vmess GRPC TLS : 1180,3380
 
-• XRAYS Vless GRPC TLS      : 2280,4480
+• XRAYS Vless GRPC TLS : 2280,4480
 
-• OHP SSH                   : 8181
+• OHP SSH : 8181
 
-• OHP Dropbear              : 8282
+• OHP Dropbear : 8282
 
-• OHP OpenVPN               : 8383
+• OHP OpenVPN : 8383
 
-• Trojan Go                 : 2087
+• Trojan Go : 2087
 
 • CloudFront Over Websocket : [OFF]
 
+### Server Information & Other Features
 
- ### Server Information & Other Features
+• Timezone : Asia/Jakarta (GMT +7)
 
-• Timezone                : Asia/Jakarta (GMT +7)
+• Fail2Ban : [ON]
 
-• Fail2Ban                : [ON]
+• Dflate : [ON]
 
-• Dflate                  : [ON]
+• IPtables : [ON]
 
-• IPtables                : [ON]
+• Auto-Reboot : [ON]
 
-• Auto-Reboot             : [ON]
-
-• IPv6                    : [OFF]
+• IPv6 : [OFF]
 
 • Autoreboot On 05.00 GMT +7
 
@@ -224,4 +214,3 @@ Auto Script Install All VPN Service JurigStore
 • Auto Fix
 
 • Auto Update
-
